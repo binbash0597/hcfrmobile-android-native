@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="_manifest.json" server="hcfr.app//var/www/hcfrmobile/public/" local="132485440653097297" remote="132485448280000000" Dst="2" />
+<file name="index.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485557799007638" remote="132485557790000000" Dst="2" />
+<file name="manifest.json" server="hcfr.app//var/www/hcfrmobile/public/" local="132485419870058712" remote="132485425120000000" Dst="2" />
+<file name="sw.js" server="hcfr.app//var/www/hcfrmobile/public/" local="132485419886752015" remote="132485425120000000" Dst="2" />
+<file name="adult-medical.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485477501628594" remote="132485562530000000" Dst="2" />
+<file name="hcfr-login.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132478716263867258" remote="132485448280000000" Dst="2" />
+<file name="index.html.bak" server="hcfr.app//var/www/hcfrmobile/public/" local="132481465842769521" remote="132485448290000000" Dst="2" />
+<file name="index.html2" server="hcfr.app//var/www/hcfrmobile/public/" local="132482684035425378" remote="132485448290000000" Dst="2" />
+<file name="menu-adult-medical.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132478716289747864" remote="132485448290000000" Dst="2" />
+<file name="menu-adult-trauma.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132478716289827673" remote="132485448300000000" Dst="2" />
+<file name="menu-als-ob.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132478716290086965" remote="132485448300000000" Dst="2" />
+<file name="menu-als-protocols.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132478716290156794" remote="132485448300000000" Dst="2" />
+<file name="menu-update.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132478716293049035" remote="132485448300000000" Dst="2" />
+<file name="package-lock.json" server="hcfr.app//var/www/hcfrmobile/public/" local="132480459001602737" remote="132485448310000000" Dst="2" />
+<file name="package.json" server="hcfr.app//var/www/hcfrmobile/public/" local="132480459000685191" remote="132485448320000000" Dst="2" />
+<file name="yarn-error.log" server="hcfr.app//var/www/hcfrmobile/public/" local="132482650324398899" remote="132485448320000000" Dst="2" />
+<file name="tools.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485472515396457" remote="132485472870000000" Dst="2" />
+<file name="medical-home.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485477632698889" remote="132485477630000000" Dst="2" />
+<file name="fire-sop.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485478530203249" remote="132485478520000000" Dst="2" />
+<file name="hospitals.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485559048174533" remote="132485559040000000" Dst="2" />
+<file name="fire-section-200.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485932325265840" remote="132485932310000000" Dst="2" />
+<file name="adult-trauma.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485477501917816" remote="132485562530000000" Dst="2" />
+<file name="als-ob.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485477502217426" remote="132485562530000000" Dst="2" />
+<file name="als-protocols.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485477502516614" remote="132485562540000000" Dst="2" />
+<file name="components.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485477502905661" remote="132485562540000000" Dst="2" />
+<file name="forms.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485477503483626" remote="132485562540000000" Dst="2" />
+<file name="hcfr-pics.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485477503982626" remote="132485562540000000" Dst="2" />
+<file name="maps.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485477504665812" remote="132485562550000000" Dst="2" />
+<file name="medical-directors.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485477504984826" remote="132485562550000000" Dst="2" />
+<file name="pediatric-medical.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485477515406928" remote="132485562550000000" Dst="2" />
+<file name="pediatric-trauma.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485477515706153" remote="132485562550000000" Dst="2" />
+<file name="stations.html" server="hcfr.app//var/www/hcfrmobile/public/" local="132485477516095101" remote="132485562560000000" Dst="2" />
+<file name="robots.txt" server="hcfr.app//var/www/hcfrmobile/public/" local="132485853690990019" remote="132485853720000000" Dst="2" />
+<file name="_manifest.json" server="173.168.3.50:2226//var/www/hcfrmobile/public/" local="132485440653097297" remote="132488232890000000" Dst="1" />
+<file name="tools.html" server="173.168.3.50:2226//var/www/hcfrmobile/public/" local="132488253833935146" remote="132488253830000000" Dst="1" />
+<file name="index.html" server="173.168.3.50:2226//var/www/hcfrmobile/public/" local="132488281406098553" remote="132488281400000000" Dst="1" />
+<file name="fire-section-200.html" server="173.168.3.50:2226//var/www/hcfrmobile/public/" local="132492875779123054" remote="132492875950000000" Dst="1" />
+<file name="medical-directors.html" server="173.168.3.50:2226//var/www/hcfrmobile/public/" local="132488314023744171" remote="132488314020000000" Dst="1" />
+<file name="sitemap.xml" server="173.168.3.50:2226//var/www/hcfrmobile/public/" local="132488328736994642" remote="132488328730000000" Dst="1" />
+<file name="sitemap-url.txt" server="173.168.3.50:2226//var/www/hcfrmobile/public/" local="132488319673120241" remote="132488321140000000" Dst="1" />
+<file name="page-login-1.html" server="173.168.3.50:2226//var/www/hcfrmobile/public/" local="132181445180000000" remote="132493313840000000" Dst="1" />
+</dwsync>
